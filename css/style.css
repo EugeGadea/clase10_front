@@ -1,0 +1,119 @@
+header .descuentos {
+    display: flex;
+    background-color: aqua;
+    font-size: 15px;
+    height: 38px;
+    margin: 0px;
+}
+
+header .titulo {
+    background-color: #00669F;
+    height:101px;
+    display: flex;
+}
+
+#batman {
+    position: absolute;
+    width: 300px;
+    background: #F3F3F3;
+    left:32px;
+    top: 292px;
+}
+
+.FondoBatman {
+    width: 300px;
+}
+
+.FotoBat {
+    position: absolute;
+    border-radius: 50%;
+    top: 128px;
+    left: 90px;
+}
+
+.profile-title {
+    margin-top: 74px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.like {
+    position: absolute;
+    top: 21px;
+    left: 14px;
+}
+
+#Harley {
+    position: absolute;
+    width: 300px;
+    background: #F3F3F3;
+    top:292px;
+    left: 515px;
+}
+
+
+.FondoHarley {
+    width: 300px;
+}
+
+.FotoHar {
+    position: absolute;
+    border-radius: 50%;
+    top: 128px;
+    left: 90px;
+}
+
+.profile-title-har {
+    margin-top: 74px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.like-har {
+    position: absolute;
+    top: 21px;
+    left: 14px;
+}
+
+#batman2 {
+    position: absolute;
+    width: 300px;
+    background: #F3F3F3;
+    right:32px;
+    top: 292px;
+
+
+}
+
+.FondoBatman2 {
+    width: 300px;
+}
+
+.FotoBat2 {
+    position: absolute;
+    border-radius: 50%;
+    top: 128px;
+    left: 90px;
+}
+
+.profile-title2 {
+    margin-top: 74px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.like2 {
+    position: absolute;
+    top: 21px;
+    left: 14px;
+}
+
+footer {
+    background-color: #00669F;
+    position: absolute;
+    margin: 0px;
+    width: 1335px;
+    height:50px;
+    top: 972px;
+    font-size: 16px;
+}
